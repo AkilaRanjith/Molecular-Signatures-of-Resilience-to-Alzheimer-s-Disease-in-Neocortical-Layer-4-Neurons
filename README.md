@@ -1,15 +1,20 @@
 This repository contains the full computational workflow for multi-modal brain analysis, including:
 
-Single-nucleus RNA-seq preprocessing and QC
+1. Single-nucleus RNA-seq preprocessing and QC, clustering
 
-Differential expression using Linear Mixed Models (LMM) and pseudobulk
+2. Differential expression using Linear Mixed Models (LMM) and pseudobulk
 
-Cell-type proportion analysis and compositional modeling (scCODA)
+3. Cell-type proportion analysis and compositional modeling (scCODA)
 
-Co-expression network analysis (HDWGCNA)
+4. Co-expression network analysis (hdWGCNA)
 
-Cell-type label transfer with scANVI
+5. Cell-type label transfer with scANVI
 
-Spatial deconvolution with Stereoscope
+6. Spatial deconvolution with Stereoscope (Visium)
 
-Cell segmentation analysis on Xenium images
+7. Cell segmentation analysis on Xenium images
+
+8. Xenium Neuronal celltype annotation
+
+
+
