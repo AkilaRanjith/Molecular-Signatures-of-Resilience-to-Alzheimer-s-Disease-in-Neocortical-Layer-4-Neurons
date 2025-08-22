@@ -1,4 +1,4 @@
-This repository contains the complete computational workflow for multi-modal brain analysis, covering:
+This repository contains a complete computational workflow for multi-modal brain omics data analysis, related to the manuscript cited below, covering:
 
 1. Preprocessing, quality control, and clustering of single-nucleus RNA-seq data
 
